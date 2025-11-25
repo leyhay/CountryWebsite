@@ -1,0 +1,12 @@
+.container{
+    display:flex;
+}
+
+#nav{
+    flex:1;
+}
+
+#banner{
+    justify-content: center;
+    align-items: center;
+}
