@@ -2,11 +2,46 @@
     display:flex;
 }
 
-#nav{
+nav a{
     flex:1;
+    background-color: rgb(236, 36, 36);
+    color:rgb(93, 231, 93);
+    padding: 13px;
+    font-size: 30px;
+    text-decoration:none;
+    text-align: center;
 }
 
+a:hover{
+    border-bottom: 20px solid yellow;
+    color:gold;
+}
 #banner{
     justify-content: center;
     align-items: center;
+    background-color: yellow;
+    color: red;
+    font-size: 40px;
+    text-shadow: 10px;
+}
+
+.collapsible{
+    background-color: orange;
+    color:blue;
+    cursor:pointer;
+    padding: 18px;
+    width:100%;
+    border:none;
+    text-align: center;
+    outline: none;
+    font-size: 15px;
+}
+.active,.collapsible:hover{
+    background-color: green;
+}
+.content{
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: aliceblue;
 }
