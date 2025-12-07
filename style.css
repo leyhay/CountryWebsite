@@ -57,7 +57,7 @@ a:hover{
 }
 
 .words{
-    font-size: 30px;
+    font-size: 40px;
     padding: 20px;
     text-align: center;
 }
@@ -83,6 +83,7 @@ a:hover{
 }
 #book{
     color:gold;
+    font-size:30px;
 }
 .line{
     border-color: yellow;
@@ -92,6 +93,6 @@ a:hover{
 .boom{
     background-color: red;
 }
-body {
-  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20250121/pngtree-chinese-new-year-landscape-with-cherry-blossom-branches-and-misty-mountains-image_16890892.jpg");
+.body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPJLLHnmpZHNL3bXnGw0yy2US7ft7J5503Dw&s");
 }
