@@ -23,6 +23,7 @@ a:hover{
     color: rgb(255, 0, 0);
     font-size: 40px;
     text-shadow: 10px;
+    font-family:cursive;
 }
 
 .footer{
@@ -67,6 +68,8 @@ a:hover{
     padding: 10px;
     border: 3px red solid;
     border-radius: 40px;
+    background-color: red;
+    color: white;
 }
 .card img{
     border-radius: 25px;
@@ -95,4 +98,10 @@ a:hover{
 }
 .body {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPJLLHnmpZHNL3bXnGw0yy2US7ft7J5503Dw&s");
+}
+#food{
+    background-color: yellow;
+}
+#message{
+    color: red;
 }
