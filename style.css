@@ -55,6 +55,7 @@ a:hover{
 .foodp{
     flex:1;
     padding: 20px;
+    font-size: 20px;
 }
 
 .words{
@@ -79,6 +80,14 @@ a:hover{
     margin: 20px;
     text-align: center;
     justify-content: center;
+    transition: 3s;
+}
+.dragon img{
+    filter:blur(4px);
+}
+
+.dragon img:hover{
+    filter:none;
 }
 #china{
     background-color: red;
@@ -97,11 +106,16 @@ a:hover{
     background-color: red;
 }
 .body {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPJLLHnmpZHNL3bXnGw0yy2US7ft7J5503Dw&s");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB94Zq7Cr7RcNjRyHrgtVwWefVM-8BxaoOgg&s");
 }
 #food{
-    background-color: yellow;
+    background-color: rgb(255, 220, 79);
 }
-#message{
-    color: red;
+.message{
+    color: rgb(0, 0, 0);
+    font-size:20px
+}
+.pink{
+    color: black;
+    width: 200px;
 }
