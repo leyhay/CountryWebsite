@@ -74,6 +74,7 @@ a:hover{
 }
 .card img{
     border-radius: 25px;
+    align-items: center;
 }
 .dragon{
     flex:1;
@@ -106,7 +107,7 @@ a:hover{
     background-color: red;
 }
 .body {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB94Zq7Cr7RcNjRyHrgtVwWefVM-8BxaoOgg&s");
+  background-image: url("https://www.thespruce.com/thmb/r1DdxFsnNF95xkUqRO97mNH-OAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/paeonia-lactiflora-5095782-hero-1eca9bdb561f4acdb5e64e2785024bd8.jpg") ;
 }
 #food{
     background-color: rgb(255, 220, 79);
