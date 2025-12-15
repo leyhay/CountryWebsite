@@ -60,6 +60,7 @@ a:hover{
 
 .words{
     font-size: 40px;
+    color: white;
     padding: 20px;
     text-align: center;
 }
@@ -69,7 +70,7 @@ a:hover{
     padding: 10px;
     border: 3px red solid;
     border-radius: 40px;
-    background-color: red;
+    background-color: rgb(255, 0, 0);
     color: white;
 }
 .card img{
@@ -104,7 +105,7 @@ a:hover{
     
 }
 .boom{
-    background-color: red;
+    background-color: #c90e0e;
 }
 .body {
   background-image: url("https://www.thespruce.com/thmb/r1DdxFsnNF95xkUqRO97mNH-OAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/paeonia-lactiflora-5095782-hero-1eca9bdb561f4acdb5e64e2785024bd8.jpg") ;
