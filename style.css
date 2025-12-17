@@ -64,7 +64,12 @@ a:hover{
     padding: 20px;
     text-align: center;
 }
-
+.wordss{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
 .card{
     margin: 16px;
     padding: 10px;
@@ -76,6 +81,9 @@ a:hover{
 .card img{
     border-radius: 25px;
     align-items: center;
+}
+.hallo{
+    margin: 54px;
 }
 .dragon{
     flex:1;
