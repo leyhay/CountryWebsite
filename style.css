@@ -84,6 +84,7 @@ a:hover{
 }
 .hallo{
     margin: 54px;
+    flex:1;
 }
 .dragon{
     flex:1;
